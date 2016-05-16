@@ -1,0 +1,22 @@
+{
+  "name": "corpsebot",
+  "version": "1.0.0",
+  "description": "test bot",
+  "main": "corpsebot.js",
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "curl": "^0.1.4",
+    "express": "^4.13.4",
+    "slackbots": "^0.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aeds",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git"
+  }
+}
